@@ -18,8 +18,7 @@ Build day 5.26.24
 Build No.
 
 VX.0.1
-
-Make this stamp readme optimal for git 24
+ 
 
 M1-CATGPT-BARD
 M1-CATGPT-BARD is an AI-powered software project developed by Catdev using the Google API. It leverages the capabilities of AutoGPT and piggybacks off Google's Gemini 1.5 Pro AI Studio.
